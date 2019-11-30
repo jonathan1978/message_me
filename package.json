@@ -4,9 +4,15 @@
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
-    "@rails/ujs": "^6.0.0",
+    "@rails/ujs": "^6.0.1",
     "@rails/webpacker": "^4.2.0",
+    "expose-loader": "^0.7.5",
     "jquery": "^3.4.1",
+    "jquery-ui-dist": "^1.12.1",
+    "jquery-ujs": "^1.2.2",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "semantic-ui-less": "^2.4.1",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
